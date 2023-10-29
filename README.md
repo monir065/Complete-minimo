@@ -1,2 +1,2 @@
-# Complete-minimo
+# complete-minimo
 Full complete minimo project
